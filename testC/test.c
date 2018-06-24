@@ -10,4 +10,10 @@ int main(void)
 	{
 		printf("hahaha:%d\n",i);
 	}
+
+	while(i > 0)
+	{
+		printf("hehehehe:%d\n",i);
+		i--;
+	}
 }
