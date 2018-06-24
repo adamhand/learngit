@@ -12,5 +12,13 @@ int main(void)
 	{
 		printf("hahahaha\n");
 	}
+	
+	switch(i)
+		case:0
+			 printf("fdfd");
+			 break;
+		default:
+			 printf("fghg");
+			 break;
 	printf("hello world!\n");
 }
