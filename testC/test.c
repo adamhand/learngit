@@ -16,4 +16,5 @@ int main(void)
 		printf("hehehehe:%d\n",i);
 		i--;
 	}
+	printf("加入我关闭？？\n",i);
 }
